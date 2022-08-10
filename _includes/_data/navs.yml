@@ -1,0 +1,18 @@
+docs_list_title: ACME Documentation
+docs:
+
+- title: Introduction
+  url: introduction.html
+  locale: en
+
+- title: Configuration
+  url: configuration.html
+  locale: en
+
+- title: Deployment
+  url: deployment.html
+  locale: de
+
+- title: amazing
+  url: amazing.html
+  locale: de
